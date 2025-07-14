@@ -11,7 +11,7 @@ TIMESTAMP = datetime.now().strftime("%Y%m%d_%H%M%S")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 EVAL_DIR = os.path.join(BASE_DIR, "evaluate")
-INPUT_MANUAL = os.path.join(EVAL_DIR, "Final_Data_Pilot_test_ea.xlsx")
+INPUT_MANUAL = os.path.join(EVAL_DIR, "Final_Data - Pilot_ea.xlsx")
 OUTPUT_DIR = os.path.join(EVAL_DIR, "output")
 
 # Output files with timestamp
