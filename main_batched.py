@@ -28,7 +28,7 @@ load_dotenv()
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
 # File paths
-INPUT_PATH = "data/Final_Data_Pilot_test.xlsx" # change to your input file path
+INPUT_PATH = "data/Final_Data - Pilot.xlsx" # change to your input file path
 OUTPUT_PATH = f"output/output_classified_batched_by_id_{timestamp}.xlsx"
 LOG_PATH = f"output/classification_log_batched_by_id_{timestamp}.csv"
 SYSTEM_PROMPT_PATH = "system_prompt.txt"

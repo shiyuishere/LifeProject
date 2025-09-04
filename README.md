@@ -2,7 +2,7 @@
 
 This project classifies life goals into structured categories using large language models (LLMs) via API calls. It reads life goal data from Excel files, classifies them using a prompt aligned with a predefined codebook, and optionally evaluates the classification accuracy against manual labels.
 
----
+
 
 ## 🔄 Update: Batched Classification (batch-llm-call branch)
 This branch introduces a more efficient version of the classification logic with key updates:
@@ -18,7 +18,7 @@ To run the new version:
 uv run python main_batched.py
 ```
 
----
+
 
 ## 🗂️ Project Structure(Updated)
 
@@ -48,7 +48,7 @@ FTOLP_LLM/
 └── .gitignore                                          # Telling Git which files or directories to ignore and exclude from version control
 ```
 
----
+
 
 ## 🛠️ How to Run the Project
 
@@ -78,7 +78,7 @@ Linux/MacOS:
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
----
+
 
 ### 2. Add your API keys
 Create a `.env` file in the project root directory based on this template:
@@ -88,7 +88,7 @@ LLM_MODEL=gpt-4o
 LLM_PROVIDER=openai
 ```
 
----
+
 
 ### 3. Run the classification
 
@@ -103,7 +103,7 @@ This will:
 - Save results to `output/output_classified_<timestamp>.xlsx`
 - Log outputs and errors to `output/`
 
----
+
 
 ### 4. Evaluate classification accuracy (optional)
 
@@ -113,7 +113,6 @@ uv run python evaluate_accuracy.py
 
 This script compares the LLM output with manually labeled data (`evaluate/input_ea.xlsx`), generates a bar plot of accuracies, and outputs mismatch details.
 
----
 
 ## 📝 Note
 
@@ -122,12 +121,8 @@ This script compares the LLM output with manually labeled data (`evaluate/input_
 - The input file has been updated to Final_Data_Pilot_test.xlsx, and the evaluation input file has been updated to Final_Data_Pilot_test_ea.xlsx.
 - A new repository named LifeProject has been initialized on GitHub to manage core classification modules.
 
----
 
-## 👩‍💻 Author
+## Contact
+FTOLP is a project by the [ODISSEI Social Data Science (SoDa) team](https://odissei-data.nl/nl/event/soda-data-drop-in/). Do you have questions, suggestions, or remarks on the technical implementation? Create an issue in the issue tracker or feel free to contact [Qixiang Fang](https://github.com/fqixiang) or [Shiyu Dong](https://github.com/shiyuishere).
 
-Shiyu Dong  
-
-s.dong1@uu.nl
-
-Utrecht University | SaSR & SoDa
+<img width="1387" height="469" alt="soda" src="https://github.com/user-attachments/assets/b71ef1fa-0bda-449c-bd03-af356f616087" />
