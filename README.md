@@ -122,11 +122,6 @@ This script compares the LLM output with manually labeled data (`evaluate/input_
 - A new repository named LifeProject has been initialized on GitHub to manage core classification modules.
 
 
-
-## Contributing
-FTOLP is an open-source project, and we welcome contributions from the community, from bug reports & feature requests to code contributions. Read our [contributing guidelines](https://github.com/sodascience/metasyn/blob/develop/.github/CONTRIBUTING.md) for more information and to get started!
-
-
 ## Contact
 FTOLP is a project by the [ODISSEI Social Data Science (SoDa) team](https://odissei-data.nl/nl/event/soda-data-drop-in/). Do you have questions, suggestions, or remarks on the technical implementation? Create an issue in the issue tracker or feel free to contact [Qixiang Fang](https://github.com/fqixiang) or [Shiyu Dong](https://github.com/shiyuishere).
 
