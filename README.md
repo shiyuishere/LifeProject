@@ -124,10 +124,12 @@ This script compares the LLM output with manually labeled data (`evaluate/input_
 
 ---
 
-## 👩‍💻 Author
+## Contributing
+FTOLP is an open-source project, and we welcome contributions from the community, from bug reports & feature requests to code contributions. Read our contributing guidelines for more information and to get started!
 
-Shiyu Dong  
+---
 
-s.dong1@uu.nl
+## Contact
+FTOLP is a project by the ODISSEI Social Data Science (SoDa) team. Do you have questions, suggestions, or remarks on the technical implementation? Create an issue in the issue tracker or feel free to contact [Qixiang Fang](https://github.com/fqixiang) or [Shiyu Dong](https://github.com/shiyuishere).
 
-Utrecht University | SaSR & SoDa
+<img width="1387" height="469" alt="soda" src="https://github.com/user-attachments/assets/b71ef1fa-0bda-449c-bd03-af356f616087" />
