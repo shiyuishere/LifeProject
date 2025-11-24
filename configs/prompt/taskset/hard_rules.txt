@@ -1,0 +1,84 @@
+# Hard rules
+
+Apply these rules strictly before assigning any codes:
+
+1. Coding Rules for Distinguishing FS, WEC, and Hou in Property Acquisition:
+- Buying a place for one’s own living (Focus is on self-residence use, such as houses, apartments, one's own residence, one's own place to live, etc.) → `Hou`
+- Buying or acquiring a place for work-related purposes, such as office / workspace / business activity / practice room (Focus is on work, professional activity, career setting.) → `WEC`
+- Buying a place for investment, renting out, resale, or financial gain (Focus is on money, return on investment, financial accumulation.) → `FS`
+- Buying or acquiring rural property, farms, land, etc. → `FS`
+
+---
+
+2. Coding Rules for Location, Housing, and Living-Space Quality of Life:**
+- Living in a certain place with a specific toponym OR a geographic area (e.g., mountains, seaside, countryside) → `MAR`
+- Living in a place (toponym or geographic area) described as comfortable, quieter, or close to nature (e.g., mountains, seaside, countryside), without mentioning residence type → `MAR` + `HQL`
+- Living in a specific place (toponym or geographic area) and mentioning a type of residence (such as houses, apartments, and farms) and describing comfort/nature (e.g., mountains, seaside, countryside) →  `MAR` + `HQL` + `Hou`
+- Living in a type of residence (such as houses, apartments, and farms) located in a comfortable/quiet/nature area (e.g., mountains, seaside, countryside), without mentioning the place name or geographic area →  `Hou` + `HQL`
+- Living in a better, more peaceful, more comfortable, or higher-quality residence, spacious (without mentioning location) → `Hou` + `HQL`
+- Living in a specific type of residence (such as houses, apartments, and farms) and mentioning a toponym or geographic area (but no comfort/nature) →  `Hou` + `MAR`
+- Living in a specific type of residence (such as houses, apartments, and farms) without mentioning location or comfort details →  `Hou`
+
+---
+
+3. Distinguishing Working Less, Retirement, and Post-Retirement Activities:**
+- Working less, like reducing workload, seeking more balance, more free time, less stress (Work adjustment + quality-of-life improvement) → `WEC` + `HQL`
+- Retire / Stop working / Quit job without specifying what to do afterward (The goal is changing employment status, not leisure mentioned) → `WEC` 
+- Retire to do something specific (Post-retirement activity is coded in addition to the work cessation) → `WEC` + [corresponding activity category]
+
+---
+
+4. Coding Rules for Co-Occurrence of IR with Other Goal Categories:
+- Doing something for someone (the purpose of the action is to care for, support, or maintain the relationship itself) → `IR`
+- Buying something or financially supporting someone → `IR`
+- Doing something with someone and the activity itself has its own independent goal, domain, or meaning → `IR` + [category of the activity]
+
+---
+
+5. Coding Rules for Work in Collective-Issue Contexts:**
+- Working in a setting that deals with collective issues (e.g., nursing home, hospital, school, social service), but the expression is about a job, career, or employment itself → `WEC`
+- Working for a collective cause, expressing care, advocacy, social responsibility, or community mission → `CI` + `WEC`
+- Volunteering for social or collective causes (no employment context) → `CI`
+
+---
+
+6. Coding Rules for MAR and Tra:**
+- Temporary visit, trip, travel, or short-term stay, with the intention to return, and without establishing residence → `Tra`; 
+- Permanent, medium-term, or long-term relocation, where establishing residence is implied, and traveling is not the focus → `MAR`
+- Exchange, study abroad（excluding short courses）, moving to study in another place → `MAR` + `WEC` 
+- Conference, workshop, seminar abroad (short-term, with return) → `Tra` + `WEC` 
+- **Important**: MAR = Migration and Area of Residence, not marriage
+
+---
+
+7. Coding Rules for Distinguishing Buying and Investing Property/Vehicle:
+- Buying house/apartment/studio for self-living → `Hou`
+- Buying a car (and mentions of recognizable car brands such as Ferrari, Porsche, Lamborghini, BMW, Toyota, Tesla, even without saying the word “car”) → `MD`
+- Buying a property or vehicle is explicitly for investment or rental income → `FS`
+- Pay for 
+- Buying a vehicle as work equipment to perform labor or service → `MD` + `WEC`
+- Buying fixed assets to operate or expand a business → `WEC` + `FS`
+
+---
+
+8. Coding Rules for Distinguishing Working and Financial Life Goals:
+- Mention earning money or improving one's financial situation → `FS`
+- Mention having, obtaining, or maintaining a good or stable job (focus on employment stability or career) → `WEC`
+- Mention having, obtaining, or maintaining a good or stable job and explicitly mentioning salary, payment, income, or financial benefit → `WEC` + `FS`
+
+---
+
+9. Coding Rules for Distinguishing Hobby Activities and Career-Related Activities:
+- Important: Always code based on the respondent's goals as a whole, not on each statement in isolation.
+- If a learning or skill-development activity (e.g., language study, course, music, sports, art) is expressed as personal interest, curiosity, leisure, or self-enrichment, with no link to career or education → `EFT`
+- If another goal from the same respondent shows that this same activity supports a professional, academic, or career-related purpose → Reassign the activity to `WEC`
+- If the activity is taking a religious or spiritual course (e.g., “take a theology course”) regardless of whether it is leisure or professional → `RS`
+
+---
+
+10. Coding Rule for Distinguishing EFT vs. HQL:
+- If a specific activity is mentioned (e.g., hiking, yoga class, guitar, cooking, swimming, etc) → EFT
+- If referring to exercise, health, fitness, or well-being in general without naming a specific activity (e.g., improving health or fitness, etc) → HQL
+- If a specific activity is mentioned for the purpose of improving health (e.g., start swimming to improve health, take long walks for mental wellness, etc) → EFT + HQL
+
+---

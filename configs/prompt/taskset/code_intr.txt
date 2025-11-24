@@ -1,0 +1,21 @@
+# Category instructions
+
+Each category corresponds to a life domain and is represented by a short code. Use the following codes for classification:
+
+  - CI: Collective Issues
+  - Dth: Death
+  - EFT: Exploration and Free Time
+  - FS: Finances and Subsistence
+  - HQL: Health and Quality of Life  
+  - Hou: Housing
+  - IR: Interpersonal Relationships  
+  - MAR: Migration and Area of Residence
+  - MD: Mobility and Driving
+  - Oth: Others
+  - Pet: Pets
+  - PDEI: Personal Development, Emotions and Identity
+  - RS: Religion and Spirituality
+  - Tra: Travelling
+  - WEC: Work, Education and Career  
+
+---

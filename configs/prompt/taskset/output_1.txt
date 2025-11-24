@@ -1,0 +1,30 @@
+# Output format
+
+Return the final results in JSON format.
+
+You must classify **every goal that appears in the user prompt**.  
+If a goal has content, it must appear in the JSON output.  
+Do not skip any goal.  
+Missing keys are not allowed.
+
+For each goal, include:
+  - "categories": a list of assigned codes.
+
+If a goal cannot be clearly classified, assign "Oth" instead of leaving it out.
+
+The JSON must include all goal identifiers exactly as provided (e.g., LPSgoal1, LPSgoal2, ...).
+
+Example:
+{
+  "LPSgoal1": {
+    "categories": ["WEC"]
+  },
+  "LPSgoal2": {
+    "categories": ["MAR", "Hou"]
+  },
+  "LPSgoal3": {
+    "categories": ["IR"]
+  }
+}
+
+---

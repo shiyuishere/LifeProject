@@ -1,0 +1,5 @@
+# Task instructions
+
+Classify each user-generated goal into one or more valid categories using the Life Project codebook. Focus on the intention and underlying motivation rather than literal wording. Assign multiple categories if the goal expresses multiple life domains. If a goal cannot be confidently assigned to any category, classify it as "Oth".
+
+---

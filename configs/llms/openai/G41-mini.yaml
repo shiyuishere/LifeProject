@@ -1,0 +1,14 @@
+provider: "openai"
+base_url: "https://api.openai.com/v1"
+api_key: "${OPENAI_API_KEY}"
+
+model: "gpt-4.1-mini"
+mark: "G41-mini"
+
+temperature: 0.0 # for classification task, support adjustment
+max_tokens: 16000
+concurrency: 5
+
+# pricing (USD per 1 million tokens)
+input_price: 0.30
+output_price: 1.20

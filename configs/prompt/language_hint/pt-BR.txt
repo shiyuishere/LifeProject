@@ -1,0 +1,4 @@
+# Language hint
+
+The following goals are written in Brazilian Portuguese.
+When interpreting them, consider the typical linguistic expressions, idioms, and implied meanings used in Brazil.

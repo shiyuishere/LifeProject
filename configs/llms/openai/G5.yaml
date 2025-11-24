@@ -1,0 +1,13 @@
+provider: "openai"
+base_url: "https://api.openai.com/v1"
+api_key: "${OPENAI_API_KEY}"
+
+model: "gpt-5"
+mark: "G5"
+
+# temperature: 0.0 # deterministic temperature-locked, default = 1.0
+concurrency: 3
+
+# pricing (USD per 1 million tokens)
+input_price: 1.00
+output_price: 4.00

@@ -1,0 +1,5 @@
+# Language hint
+
+The following goals are written in Traditional Chinese.
+When interpreting them, pay close attention to the implicit meanings and cultural expressions typical in Taiwan, Hong Kon, Macau areas.
+  

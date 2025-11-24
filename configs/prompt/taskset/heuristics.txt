@@ -1,0 +1,20 @@
+# Heuristics annotation
+
+Human annotators have observed that certain categories often co-occur. 
+These are soft co-occurrence heuristics that may guide your interpretation when multiple life domains appear relevant.
+They are not mandatory, and should not override hard rules.
+
+  - CI often co-occurs with: [WEC, Tra, Hou]
+  - EFT often co-occurs with: [FS, IR, MD, Tra]
+  - FS often co-occurs with: [WEC, HQL, EFT, Tra]
+  - HQL often co-occurs with: [FS, WEC, Hou, MAR]
+  - Hou often co-occurs with: [MAR, HQL, CI, IR]
+  - IR often co-occurs with: [RS, Tra, EFT, WEC, Hou]
+  - MAR often co-occurs with: [WEC, CI, Hou, HQL, RS]
+  - MD often co-occurs with: [WEC, EFT]
+  - RS often co-occurs with: [Tra, MAR, IR]
+  - Tra often co-occurs with: [RS, WEC, IR, CI, EFT, FS]
+  - WEC often co-occurs with: [MAR, Tra, CI, FS, HQL, IR, MD]
+  - Oth may accompany any category when classification is uncertain.
+
+  ---

@@ -1,81 +1,142 @@
-from typing import Dict, List
+from typing import Dict, Any
 import json
 
-from .llm import LLMConfig
-from .prompt_builder import build_prompts
-
-__all__ = ["get_batched_model_response", "classify_text_batch"]
-
-# Function for cleaning up the Markdown format in responses
+# ==========================================
+# Clean JSON markdown
+# ==========================================
 def clean_json_markdown(resp: str) -> str:
+    """Remove ```json ... ``` wrapper."""
+    return (
+        resp.strip()
+        .removeprefix("```json")
+        .removesuffix("```")
+        .strip()
+    )
+
+# ==========================================
+# Build User Prompt (NEW - replaces old logic)
+# ==========================================
+def build_user_prompt(goals_dict: Dict[str, str], require_reasoning: bool) -> str:
     """
-    Remove markdown-style code block if present.
+    Construct the user prompt for a single respondent.
+    - Skip empty goals
+    - Add reasoning request only when required
     """
-    return resp.strip().removeprefix("```json").removesuffix("```").strip()
 
-# Function for parsing classification result 
-def classify_text_batch(resp: str) -> Dict[str, List[str]]:
-    """
-    Parse LLM response containing multiple goals and return their category codes per goal.
-    Supports 3 formats:
-    - {"goal_1": {"categories": [...]}}
-    - {"goal_1": [...]}
-    - {"goal_1": "LP-01"}  (fallback: single code)
-    """
-    import json
-    from json import JSONDecodeError
+    goals_text_lines = []
+    for key, value in goals_dict.items():
+        if value and str(value).strip() and value != "nan":
+            goals_text_lines.append(f"{key}: {value}")
 
-    try:
-        clean_resp = resp.strip().removeprefix("```json").removesuffix("```").strip()
-        parsed = json.loads(clean_resp)
+    goals_text = "\n".join(goals_text_lines)
 
-        # Handle double stringified JSON
-        if isinstance(parsed, str):
-            parsed = json.loads(parsed)
-
-        if not isinstance(parsed, dict):
-            raise ValueError("Parsed content is not a dict.")
-
-        result = {}
-
-        for goal_key, value in parsed.items():
-            if isinstance(value, dict) and "categories" in value:
-                result[goal_key] = value["categories"]
-            elif isinstance(value, list):
-                result[goal_key] = value
-            elif isinstance(value, str):
-                result[goal_key] = [value]  # fallback
-            else:
-                print(f"⚠️ Unexpected format for {goal_key}: {value}")
-
-        return result
-
-    except (KeyError, JSONDecodeError, TypeError, ValueError) as e:
-        print("❌ Failed to parse response:", e)
-        raise ValueError(f"❌ Invalid batched classification format:\n{resp}") from e
-
-# Function for calling model
-async def get_batched_model_response(client: LLMConfig, goals_dict: Dict[str, str], system_prompt: str) -> str:
-    from .prompt_builder import build_prompts
-
-    system_prompt, user_prompt = build_prompts(goals_dict, system_prompt)
-
-    print("\n📥 SYSTEM PROMPT:\n", system_prompt[:500])
-    print("\n🗣️ USER PROMPT:\n", user_prompt[:1000])
-
-    try:
-        response = await client.client.chat.completions.create(
-            model=client.model,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt},
-            ],
-            max_tokens=1000,
-            temperature=client.temperature,
+    if require_reasoning:
+        request = (
+            "Return the results as a JSON object, where each goal identifier maps to "
+            "`categories` and a short `reasoning`."
         )
-        result = response.choices[0].message.content or "{}"
-        print("\n🤖 LLM RAW RESPONSE:\n", result[:1000])
-        return result
-    except Exception as e:
-        print(f"❌ API error: {e}")
+    else:
+        request = (
+            "Return the results as a JSON object, where each goal identifier maps to "
+            "`categories` only."
+        )
+
+    return (
+        "The following are the life goals expressed by a person:\n\n"
+        f"{goals_text}\n\n"
+        f"{request}"
+    )
+
+
+# ==========================================
+# Parse LLM output (supports both modes)
+# ==========================================
+def classify_text_batch(resp: str) -> Dict[str, Dict[str, Any]]:
+    """
+    Parse LLM response containing multiple goals.
+    Supports:
+      - {"goal": {"categories": [...]}}
+      - {"goal": {"categories": [...], "reasoning": "..."}}
+    """
+    clean_resp = clean_json_markdown(resp)
+    parsed = json.loads(clean_resp)
+
+    if isinstance(parsed, str):
+        parsed = json.loads(parsed)
+
+    if not isinstance(parsed, dict):
+        raise ValueError("Parsed JSON is not a dict.")
+
+    result = {}
+
+    for key, value in parsed.items():
+
+        if not isinstance(value, dict):
+            raise ValueError(f"Invalid format for goal: {key}")
+
+        categories = value.get("categories", None)
+        if not categories or not isinstance(categories, list):
+            raise ValueError(f"Missing or invalid `categories` for {key}")
+
+        reasoning = value.get("reasoning", "") or ""
+
+        result[key] = {
+            "categories": categories,
+            "reasoning": reasoning,
+        }
+
+    return result
+
+
+# ==========================================
+# Call LLM for batched classification
+# ==========================================
+async def get_batched_model_response(
+    client,
+    goals_dict: Dict[str, str],
+    system_prompt: str,
+    require_reasoning: bool,
+    token_counts: dict,
+) -> str:
+    """
+    Send batched prompt to the LLM.
+    - Builds user prompt internally
+    - Silent (no printing prompts)
+    """
+
+    # Build user prompt here
+    user_prompt = build_user_prompt(goals_dict, require_reasoning)
+
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": user_prompt},
+    ]
+
+    params = {
+        "model": client.model,
+        "messages": messages,
+    }
+
+    if not any(name in client.model for name in ["gpt-5"]):
+        params["temperature"] = getattr(client, "temperature", 1.0)
+
+    if hasattr(client, "max_completion_tokens") and client.max_completion_tokens:
+        params["max_completion_tokens"] = client.max_completion_tokens
+    elif hasattr(client, "max_tokens") and client.max_tokens:
+        params["max_completion_tokens"] = client.max_tokens
+    else:
+        params["max_completion_tokens"] = 2000
+
+    try:
+        response = await client.client.chat.completions.create(**params)
+
+        if hasattr(response, "usage") and response.usage:
+            token_counts["in"] += getattr(response.usage, "prompt_tokens", 0)
+            token_counts["out"] += getattr(response.usage, "completion_tokens", 0)
+
+        result = response.choices[0].message.content if response.choices else "{}"
+
+        return result or "{}"
+
+    except Exception:
         return "{}"

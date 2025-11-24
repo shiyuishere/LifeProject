@@ -1,0 +1,2939 @@
+=== Respondent 1 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Chegar ao mestrado.
+LPSgoal2: Comprar um terreno no Caparaó.
+LPSgoal3: Continuar escrevendo livros.
+LPSgoal4: Encontrar um relacionamento saudável.
+LPSgoal5: Me mudar para o interior.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 2 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Fazer uma reeducação financeira, em que eu possa pagar as minhas dívidas.
+LPSgoal2: Adequando minhas finanças, pretendo fazer uma economia em que eu consiga me manter.
+LPSgoal3: Sair da casa da minha mãe.
+LPSgoal4: Conseguir emprego em outro estado.
+LPSgoal5: Parar de fumar.
+LPSgoal6: Sair do país e tentar me estruturar no possível novo país.
+LPSgoal7: Terminar a faculdade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 3 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Tirar carteira de motorista.
+LPSgoal2: Ter um filho.
+LPSgoal3: Ter meu escritório.
+LPSgoal4: Comprar um apartamento.
+LPSgoal5: Viajar para fora.
+LPSgoal6: Independência financeira.
+LPSgoal7: Voltar a fazer corridas de rua.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 4 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir o mestrado.
+LPSgoal2: Entrar para o mercado de trabalho na área de conclusão do meu mestrado.
+LPSgoal3: Tirar a cidadania europeia.
+LPSgoal4: Aprender francês.
+LPSgoal5: Trabalhar em organizações mundiais sem fins lucrativos.
+LPSgoal6: Ter filhos ou adotar.
+LPSgoal7: Viajar por mais de 40 países.
+LPSgoal8: Fazer curso de teatro.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 5 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Dar à luz.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 6 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Finalizar meus estudos.
+LPSgoal2: Cuidar da minha saúde.
+LPSgoal3: Dar atenção à minha família.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 7 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Comprar um imóvel.
+LPSgoal2: Construir casa no interior.
+LPSgoal3: Aposentar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 8 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viagem internacional.
+LPSgoal2: Adotar uma criança.
+LPSgoal3: Trabalho assistencial casa idosos.
+LPSgoal4: Emagrecer.
+LPSgoal5: Praticar atividade física.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 9 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Reformar casa.
+LPSgoal2: Emagrecer.
+LPSgoal3: Pagar as dívidas.
+LPSgoal4: Ter mais controle emocional.
+LPSgoal5: Comprar um terreno.
+LPSgoal6: Ser algo dentro da comunidade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 10 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Fazer um novo curso superior.
+LPSgoal2: Trabalhar com o que gosto.
+LPSgoal3: Conhecer outros países.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 11 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir a segunda graduação.
+LPSgoal2: Ter um novo emprego.
+LPSgoal3: Noivar.
+LPSgoal4: Viajar.
+LPSgoal5: Comprar um apartamento para minha mãe.
+LPSgoal6: Perder peso.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 12 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser feliz.
+LPSgoal2: Realizar profissionalmente.
+LPSgoal3: Terminar o doutorado.
+LPSgoal4: Morar só.
+LPSgoal5: Se possível encontrar um amor.
+LPSgoal6: Ficar mais perto da minha família.
+LPSgoal7: Ter amigos.
+LPSgoal8: Ter um lado espiritual mais pleno.
+LPSgoal9: Saúde.
+LPSgoal10: Conhecer o mundo.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 13 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter meu próprio escritório.
+LPSgoal2: Casar.
+LPSgoal3: Ter filhos.
+LPSgoal4: Ingressar no doutorado.
+LPSgoal5: Resolver o embate envolvendo meu pai.
+LPSgoal6: Mudar de apartamento.
+LPSgoal7: Trocar de carro.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 14 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Morar fora do país.
+LPSgoal2: Tirar a minha carteira de motorista.
+LPSgoal3: Fazer algum investimento a longo prazo.
+LPSgoal4: Ter mais autonomia no meu profissional.
+LPSgoal5: Ter minha casa.
+LPSgoal6: Aprender um novo idioma, francês.
+LPSgoal7: Melhorar o modo como me alimento e cuido da minha saúde.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 15 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Futuro profissional do filho mais velho.
+LPSgoal2: Constituição familiar do filho mais velho.
+LPSgoal3: Independência profissional.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 16 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estabilidade financeira.
+LPSgoal2: Filhos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 17 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viagem.
+LPSgoal2: Trocar de carro.
+LPSgoal3: Aposentadoria.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 18 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Morar em um sítio.
+LPSgoal2: Ser milionário.
+LPSgoal3: Viajar para o exterior.
+LPSgoal4: Fazer um pós_doutorado em Portugal.
+LPSgoal5: Fazer um trabalho social.
+LPSgoal6: Educar meu filho para ser um bom homem.
+LPSgoal7: Se exercitar diariamente.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 19 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me formar em direito.
+LPSgoal2: Trabalhar em um grande escritório.
+LPSgoal3: Ter minha própria casa.
+LPSgoal4: Viajar para o exterior.
+LPSgoal5: Fazer intercâmbio.
+LPSgoal6: Tirar carteira de motorista.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 20 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Publicar um artigo.
+LPSgoal2: Fazer pós_graduação.
+LPSgoal3: Fazer mestrado.
+LPSgoal4: Ter uma família.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 21 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Formar meu filho na faculdade.
+LPSgoal2: Fazer mestrado.
+LPSgoal3: Parar de trabalhar.
+LPSgoal4: Viajar mais.
+LPSgoal5: Ser mais religiosa.
+LPSgoal6: Me casar de novo.
+LPSgoal7: Formar meu filho.
+LPSgoal8: Fazer um curso de teologia.
+LPSgoal9: Estar mais próxima de meus familiares.
+LPSgoal10: Estudar mais o que gosto.
+LPSgoal11: Fazer mais coisas que gosto.
+LPSgoal12: Ter uma atividade de tempo livre.
+LPSgoal13: Me tornar um ser humano mais humano.
+LPSgoal14: Fazer mais amigos.
+LPSgoal15: Mudar de bairro para morar mais perto da praia.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 22 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar meu doutorado.
+LPSgoal2: Me tornar professor universitário.
+LPSgoal3: Ter uma casa confortável para morar.
+LPSgoal4: Encontrar um companheiro.
+LPSgoal5: Continuar me reunindo com meus amigos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 23 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Formar filha.
+LPSgoal2: Casar filha.
+LPSgoal3: Viajar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 24 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casa reformada.
+LPSgoal2: Nova faculdade ou mestrado.
+LPSgoal3: Lucro no meu negócio.
+LPSgoal4: Colchão financeiro rentável.
+LPSgoal5: Aposentadoria.
+LPSgoal6: Viagem para Bora_Bora ou Maldivas.
+LPSgoal7: Voltar a dar aulas.
+LPSgoal8: Mandar meu filho para um intercâmbio.
+LPSgoal9: Comprar um carro híbrido.
+LPSgoal10: Escrever um livro.
+LPSgoal11: Ajudar uma ou mais causas, filantropia.
+LPSgoal12: Ser avó.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 25 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Saúde boa, lúpus em remissão.
+LPSgoal2: Estabilidade financeira.
+LPSgoal3: Estabilidade emocional.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 26 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser professor em uma universidade particular.
+LPSgoal2: Ser professor em universidade pública.
+LPSgoal3: Consolidar atuação como clínico.
+LPSgoal4: Ter o segundo filho.
+LPSgoal5: Construir uma casa.
+LPSgoal6: Trocar de carro.
+LPSgoal7: Crescer na minha religião.
+LPSgoal8: Ter um patrimônio de 1 milhão.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 27 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mudar para uma casa maior.
+LPSgoal2: Voltar para o mercado de trabalho.
+LPSgoal3: Me formar na segunda graduação.
+LPSgoal4: Comemorar 10 anos de relacionamento.
+LPSgoal5: Mudar com minha família para um lugar mais calmo.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 28 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser educadora física.
+LPSgoal2: Jogar na seleção brasileira de flagfootball.
+LPSgoal3: Ter meu próprio apartamento.
+LPSgoal4: Ter meu próprio carro.
+LPSgoal5: Ler 24 livros em 2020.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 29 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir a faculdade.
+LPSgoal2: Fazer mestrado em ciências criminais.
+LPSgoal3: Passar no Concurso de Delegado.
+LPSgoal4: Tomar posse no cargo.
+LPSgoal5: Passar no concurso de magistratura.
+LPSgoal6: Mudar para a cidade do meu cargo.
+LPSgoal7: Comprar minha casa e meu carro.
+LPSgoal8: Investir.
+LPSgoal9: Casar.
+LPSgoal10: Tempo de qualidade com meus amigos.
+LPSgoal11: Viajar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 30 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casar.
+LPSgoal2: Ter minha casa.
+LPSgoal3: Conhecer Londres.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 31 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Relacionamento estável.
+LPSgoal2: Trabalho estável.
+LPSgoal3: Casa própria.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 32 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Defender doutorado.
+LPSgoal2: Concurso da união.
+LPSgoal3: Relacionamento estável.
+LPSgoal4: Filhos.
+LPSgoal5: Consultoria.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 33 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Melhorar meus conhecimentos de inglês.
+LPSgoal2: Conseguir um trabalho.
+LPSgoal3: Aproximar do peso pretendido.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 34 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir o ensino superior.
+LPSgoal2: Ter um bom emprego.
+LPSgoal3: Ser independente.
+LPSgoal4: Ter minha casa própria.
+LPSgoal5: Comprar um carro.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 35 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar o mestrado.
+LPSgoal2: Começar o doutorado.
+LPSgoal3: Começar a trabalhar.
+LPSgoal4: Fazer uma viagem internacional com minha mãe.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 36 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Cursar um mestrado.
+LPSgoal2: Fazer um plano de saúde familiar.
+LPSgoal3: Concluir o curso de extensão.
+LPSgoal4: Investir na educação dos filhos.
+LPSgoal5: Reformar a residência.
+LPSgoal6: Reformar e comprar mobília da casa.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 37 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar graduação.
+LPSgoal2: Ingressar no mestrado.
+LPSgoal3: Ingressar no doutorado.
+LPSgoal4: Trabalhar em uma multinacional.
+LPSgoal5: Morar no exterior.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 38 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viajar mais.
+LPSgoal2: Ser uma pessoa melhor.
+LPSgoal3: Ajudar meu neto.
+LPSgoal4: Novo relacionamento.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 39 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir minha formação em psicanálise.
+LPSgoal2: Primeiro filho.
+LPSgoal3: Segundo filho.
+LPSgoal4: Mestrado.
+LPSgoal5: Doutorado.
+LPSgoal6: Consultório próprio.
+LPSgoal7: Estabilidade econômica.
+LPSgoal8: Adequar meu peso com o que eu gostaria.
+LPSgoal9: Condições para viajar mais.
+LPSgoal10: Conseguir desfrutar de 30 dias de férias.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 40 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser reconhecida pelo meu trabalho.
+LPSgoal2: Ter estabilidade financeira.
+LPSgoal3: Ter uma casa própria.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 41 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Arrumar um emprego na minha área de formação ou não.
+LPSgoal2: Juntar dinheiro para abrir um negócio.
+LPSgoal3: Abrir um negócio de comida.
+LPSgoal4: Casar ou morar junto, não necessariamente no papel.
+LPSgoal5: Ter filhos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 42 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser professora universitária.
+LPSgoal2: Ser concursada.
+LPSgoal3: Poder ir para praia várias vezes ao ano.
+LPSgoal4: Terminar doutorado.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 43 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Lecionar.
+LPSgoal2: Ter meu próprio local de moradia.
+LPSgoal3: Cuidar da minha saúde psíquica com profissional.
+LPSgoal4: Me exercitar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 44 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mestrado.
+LPSgoal2: Viagens.
+LPSgoal3: Trabalhar fora.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 45 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Graduar.
+LPSgoal2: Especializar em direito empresarial.
+LPSgoal3: Ter empresa.
+LPSgoal4: Ser palestrante.
+LPSgoal5: Casar.
+LPSgoal6: Se sentir completamente realizado.
+LPSgoal7: Melhorar a condição de vida, principalmente de minha mãe.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 46 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Trabalhar com conteúdo digital.
+LPSgoal2: Trabalhar com conteúdo digital e viver disso.
+LPSgoal3: Marca de roupas.
+LPSgoal4: Escolher um país onde morar e estabelecer vínculos, com casa própria, com o meu companheiro.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 47 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Família.
+LPSgoal2: Paternidade.
+LPSgoal3: Estudo.
+LPSgoal4: Trabalho.
+LPSgoal5: Religião.
+LPSgoal6: Lazer.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 48 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Poder trabalhar remoto quanto tempo quiser durante o ano e onde quiser.
+LPSgoal2: Adquirir passaporte italiano.
+LPSgoal3: Trabalhar um certo período nos Estados_Unidos.
+LPSgoal4: Passar todos natais e ano novo na minha terra natal.
+LPSgoal5: Possuir dinheiro o suficiente para uma aposentadoria.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 49 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Trabalhar na minha área de formação.
+LPSgoal2: Morar fora do país por algum tempo.
+LPSgoal3: Ser mãe.
+LPSgoal4: Ser aprovada em concurso e ser servidora pública.
+LPSgoal5: Me desenvolver espiritualmente e trabalhar junto à espiritualidade, ajudando muitas pessoas.
+LPSgoal6: Ter minhas finanças equilibradas, de modo a ter condições de investir dinheiro.
+LPSgoal7: Comprar um carro.
+LPSgoal8: Ter um apartamento próprio, em meu nome, e sair do aluguel.
+LPSgoal9: Estar bem de saúde, sem limitações da hérnia de disco.
+LPSgoal10: Ter algum projeto socioambiental e de desenvolvimento pessoal, para ajudar muitas pessoas.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 50 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Pós_doutorado.
+LPSgoal2: Ter filhos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 51 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me estabilizar financeiramente.
+LPSgoal2: Comprar apartamento.
+LPSgoal3: Fazer outra faculdade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 52 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estabilidade no novo negócio.
+LPSgoal2: Encerrar o negócio atual.
+LPSgoal3: Estabilidade financeira.
+LPSgoal4: Viajar com a família.
+LPSgoal5: Trocar de carro.
+LPSgoal6: Estabilidade emocional no casamento.
+LPSgoal7: Manter uma rotina de exercícios.
+LPSgoal8: Aproveitar e relaxar nas horas vagas.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 53 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser feliz.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 54 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Graduação.
+LPSgoal2: Imóvel.
+LPSgoal3: Viagens.
+LPSgoal4: Estabilidade financeira.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 55 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser professor universitário.
+LPSgoal2: Namorar.
+LPSgoal3: Ajeitar os dentes.
+LPSgoal4: Morar só.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 56 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viajar para Amazônia e Peru.
+LPSgoal2: Morar fora do país por 1 ano.
+LPSgoal3: Estabilizar profissionalmente.
+LPSgoal4: Ter um ou dois filhos.
+LPSgoal5: Adquirir uma propriedade rural.
+LPSgoal6: Ser agricultor e consultor agrônomo.
+LPSgoal7: Contribuir para saúde do planeta e ser professor na área.
+LPSgoal8: Ser um consultor respeitado na minha área.
+LPSgoal9: Viver bem e não depender de outros.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 57 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir o mestrado.
+LPSgoal2: Casar.
+LPSgoal3: Concluir um doutorado.
+LPSgoal4: Ter um emprego minimamente estável.
+LPSgoal5: Ter um filho.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 58 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mudar de cidade.
+LPSgoal2: Trabalhar realmente com o que gosto, sem depender de questões políticas.
+LPSgoal3: Morar junto com meu namorado.
+LPSgoal4: Morar na praia.
+LPSgoal5: Comprar um imóvel.
+LPSgoal6: Continuar sempre estudando.
+LPSgoal7: Montar uma ONG.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 59 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Realizar atividade física
+LPSgoal2: Reformar casa de praia
+LPSgoal3: Reformar casa de campo
+LPSgoal4: Viajar
+LPSgoal5: Aperfeiçoar viagens
+LPSgoal6: Construir casa
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 60 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casar
+LPSgoal2: Ser pai.
+LPSgoal3: Ser pai pela segunda vez
+LPSgoal4: Emprego fixo
+LPSgoal5: Estabilidade financeira
+LPSgoal6: Sítio modesto para se aposentar
+LPSgoal7: Praticar mais atividade física
+LPSgoal8: Terminar o doutorado.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 61 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Arrumar um emprego melhor.
+LPSgoal2: Casar.
+LPSgoal3: Ter filhos.
+LPSgoal4: Me formar em uma graduação.
+LPSgoal5: Fazer mestrado.
+LPSgoal6: Sair de casa.
+LPSgoal7: Dirigir.
+LPSgoal8: Comprar um carro.
+LPSgoal9: Me formar na pós_graduação.
+LPSgoal10: Fazer academia.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 62 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Abrir meu próprio negócio.
+LPSgoal2: Terminar minha casa.
+LPSgoal3: Voltar para o Brasil.
+LPSgoal4: Terminar estudos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 63 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Sair de casa.
+LPSgoal2: Casar.
+LPSgoal3: Arrumar um emprego melhor.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 64 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casar e constituir uma nova família.
+LPSgoal2: Alcançar a independência financeira.
+LPSgoal3: Manter ou melhorar a saúde.
+LPSgoal4: Finalizar o doutorado.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 65 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter uma casa.
+LPSgoal2: Casar.
+LPSgoal3: Ser pai.
+LPSgoal4: Passar 1 ano sabático na África e Ásia.
+LPSgoal5: Me tornar doutor.
+LPSgoal6: Concluir meu romance e publicar.
+LPSgoal7: Aprender todos os acordes da bossa_nova.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 66 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Graduação.
+LPSgoal2: Trabalhar no exterior em determinada área.
+LPSgoal3: Evoluir de tipo de emprego e ir para a empresa que almejo.
+LPSgoal4: Ter aprendido a língua local.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 67 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Aposentadoria.
+LPSgoal2: Nova graduação.
+LPSgoal3: Ter duas horas para almoçar.
+LPSgoal4: Parar de dirigir e deixar de ter carro.
+LPSgoal5: Prestar um concurso público.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 68 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser nomeado em um bom concurso público.
+LPSgoal2: Viajar pela Europa, América latina e Brasil.
+LPSgoal3: Iniciar o mestrado.
+LPSgoal4: Comprar um apartamento.
+LPSgoal5: Adotar uma criança ou ter um filho ou filha.
+LPSgoal6: Emprego estável.
+LPSgoal7: Conviver com meus amigos e familiares.
+LPSgoal8: Ter uma relação amorosa.
+LPSgoal9: Ter uma ótima reserva financeira.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 69 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estabilidade familiar.
+LPSgoal2: Estabilidade financeira.
+LPSgoal3: Construir casa mais espaçosa.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 70 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estar em forma.
+LPSgoal2: Ter uma casa.
+LPSgoal3: Terminar a faculdade.
+LPSgoal4: Ter um emprego.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 71 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Um emprego independente de bolsa.
+LPSgoal2: Dar entrada em um imóvel.
+LPSgoal3: Melhorar aspectos agressivos da minha personalidade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 72 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Conseguir um emprego.
+LPSgoal2: Chegar aos 85 quilos.
+LPSgoal3: Trocar de veículo.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 73 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Quitar meu apartamento.
+LPSgoal2: Fazer mais uma especialização.
+LPSgoal3: Aprender mais um idioma.
+LPSgoal4: Comprar um carro novo.
+LPSgoal5: Ter um filho ou adotar.
+LPSgoal6: Ir a mais países como voluntária.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 74 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mestrado.
+LPSgoal2: Pagar meu carro.
+LPSgoal3: Retornar à Viena.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 75 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir o doutorado.
+LPSgoal2: Formalização do casamento.
+LPSgoal3: Melhorar o estilo de vida e saúde.
+LPSgoal4: Promoção no trabalho.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 76 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Sucesso na profissão escolhida.
+LPSgoal2: Família e filhos.
+LPSgoal3: Casa própria e carro próprio.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 77 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Sair da casa dos meus pais para ir morar com meu companheiro.
+LPSgoal2: Ser capaz de dirigir na cidade.
+LPSgoal3: Tirar um tempo para estudar para concursos e decidir se é o que quero.
+LPSgoal4: Aumentar minha clientela na advocacia e ganhar mais dinheiro.
+LPSgoal5: Cozinhar com mais facilidade.
+LPSgoal6: Terminar a pós_graduação.
+LPSgoal7: Ser financeiramente independente.
+LPSgoal8: Melhorar minha relação com alimentação.
+LPSgoal9: Continuar praticando exercícios que me fazem bem.
+LPSgoal10: Manter minha saúde mental.
+LPSgoal11: Encerrar o tratamento psicológico.
+LPSgoal12: Me curar da fobia.
+LPSgoal13: Voltar a fazer dança do ventre.
+LPSgoal14: Fazer com que meu cabelo pare de cair.
+LPSgoal15: Comprar tudo que preciso para me mudar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 78 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser um psicólogo conhecido.
+LPSgoal2: Ter muitos pacientes.
+LPSgoal3: Ter doutorado.
+LPSgoal4: Ter especialização.
+LPSgoal5: Viajar para a Europa.
+LPSgoal6: Estudar na Europa.
+LPSgoal7: Ser capaz de me sustentar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 79 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me tornar gerente.
+LPSgoal2: Ter um empreendimento.
+LPSgoal3: Tornar financeiramente livre.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 80 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Tirar minha carteira de motorista.
+LPSgoal2: Comprar minha moto ou carro.
+LPSgoal3: Concluir minha faculdade.
+LPSgoal4: Conseguir o emprego da minha formação.
+LPSgoal5: Viajar para lugares que ainda não conheço.
+LPSgoal6: Estar bem financeiramente.
+LPSgoal7: Ser presente na vida dos filhos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 81 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Vida saudável.
+LPSgoal2: Emprego na área que me formei.
+LPSgoal3: Exercícios diários.
+LPSgoal4: Alimentação saudável.
+LPSgoal5: Morar em outro país.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 82 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estar atuando como psicóloga e estudando para mestrado ou algo assim.
+LPSgoal2: Poder ser independente financeiramente.
+LPSgoal3: Fazer várias viagens legais e inesquecíveis com amigos e namorada.
+LPSgoal4: Fazer alguma atividade física ou esporte diferente e que eu queira.
+LPSgoal5: Contribuir financeiramente com minha mãe.
+LPSgoal6: Viajar com minha mãe e pagar a viagem.
+LPSgoal7: Passar em um concurso com estágio remunerado.
+LPSgoal8: Viajar sozinha para visitar uma amiga ou amigo.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 83 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Adquirir meu carro.
+LPSgoal2: Adquirir minha casa.
+LPSgoal3: Ser efetivo em um concurso.
+LPSgoal4: Ser autônomo
+LPSgoal5: Fazer outra faculdade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 84 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Um trabalho que goste de fazer.
+LPSgoal2: Um emprego com liberdade financeira.
+LPSgoal3: Uma casa própria.
+LPSgoal4: Viajar mais de 5 países.
+LPSgoal5: Terminar mestrado.
+LPSgoal6: Ser conhecido na minha área.
+LPSgoal7: Ter um parceiro.
+LPSgoal8: Viajar com meus pais.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 85 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estar realizando um mestrado.
+LPSgoal2: Morar no Canadá.
+LPSgoal3: Ser professora universitária.
+LPSgoal4: Conseguir cidadania canadense.
+LPSgoal5: Casar ou ter um relacionamento amoroso estável.
+LPSgoal6: Começar um doutorado.
+LPSgoal7: Ter renome internacional na psicologia.
+LPSgoal8: Ter filhos.
+LPSgoal9: Ser fluente em francês.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 86 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter o próprio lugar para morar.
+LPSgoal2: Estabilidade financeira.
+LPSgoal3: Ganhar massa muscular.
+LPSgoal4: Aprender outra língua.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 87 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Aprender francês.
+LPSgoal2: Conseguir um emprego.
+LPSgoal3: Terminar o mestrado.
+LPSgoal4: Ter filhos.
+LPSgoal5: Comprar uma casa.
+LPSgoal6: Fazer novas amizades.
+LPSgoal7: Conhecer a África.
+LPSgoal8: Praticar atividade física.
+LPSgoal9: Comer bem.
+LPSgoal10: Usar menos redes sociais.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 88 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Formatura na faculdade.
+LPSgoal2: Casar.
+LPSgoal3: Ter filhos.
+LPSgoal4: Estabilidade financeira.
+LPSgoal5: Ter minha profissão encaminhada.
+LPSgoal6: Me sustentar independentemente.
+LPSgoal7: Morar sem meus pais.
+LPSgoal8: Ter um carro.
+LPSgoal9: Especialização na minha área.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 89 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Emprego melhor.
+LPSgoal2: Filhos.
+LPSgoal3: Casar.
+LPSgoal4: Casa.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 90 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Graduando em ciências sociais.
+LPSgoal2: Ter minha casa.
+LPSgoal3: Carro.
+LPSgoal4: Ter uma biblioteca em casa.
+LPSgoal5: Ter uma filha.
+LPSgoal6: Morar com minha namorada.
+LPSgoal7: Ser professor.
+LPSgoal8: Ter meu escritório de dev_web
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 91 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mestrado.
+LPSgoal2: Casar.
+LPSgoal3: Apartamento próprio.
+LPSgoal4: Filhos.
+LPSgoal5: Doutorado.
+LPSgoal6: Ascensão profissional até cargo desejado.
+LPSgoal7: Viajar os 5 continentes.
+LPSgoal8: Viajar mais de 50 países.
+LPSgoal9: Aposentadoria.
+LPSgoal10: Casa na praia.
+LPSgoal11: Outro apartamento.
+LPSgoal12: Domínio de língua inglesa e língua espanhola.
+LPSgoal13: Abrir meu próprio negócio na área da Engenharia.
+LPSgoal14: Abrir um restaurante.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 92 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mestrado.
+LPSgoal2: Viagens.
+LPSgoal3: Harmonia interpessoal.
+LPSgoal4: Saúde.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 93 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Comprar uma casa própria.
+LPSgoal2: Entrar para o doutorado.
+LPSgoal3: Conhecer a Europa.
+LPSgoal4: Ser terapeuta holística.
+LPSgoal5: Ter um consultório de práticas integrativas em saúde.
+LPSgoal6: Ser feliz.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 94 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser funcionário público.
+LPSgoal2: Concluir mestrado.
+LPSgoal3: Entrar no doutorado.
+LPSgoal4: Concluir doutorado.
+LPSgoal5: Ser professor universitário.
+LPSgoal6: Comprar uma casa no campo.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 95 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Construção de uma casa.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 96 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casar.
+LPSgoal2: Ter filhos.
+LPSgoal3: Iniciar uma nova graduação.
+LPSgoal4: Perder peso.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 97 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar a graduação.
+LPSgoal2: Conseguir um emprego.
+LPSgoal3: Fazer mestrado.
+LPSgoal4: Estabilizar financeiramente.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 98 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estabilidade profissional e concursada.
+LPSgoal2: Casa própria.
+LPSgoal3: Primeiro filho.
+LPSgoal4: Segundo filho.
+LPSgoal5: Estabilidade financeira suficiente para viver bem, pagar estudos dos filhos e realizar viagens.
+LPSgoal6: Especialização em ciências.
+LPSgoal7: Casar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 99 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estabilizar minha empresa.
+LPSgoal2: Iniciar minha pós_graduação em biologia molecular.
+LPSgoal3: Direcionar minha empresa para o público online alternativo.
+LPSgoal4: Trabalhar na minha área de formação.
+LPSgoal5: Fazer uma viagem internacional com meu filho.
+LPSgoal6: Mandar meu filho para um intercâmbio.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 100 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter filhos.
+LPSgoal2: Quitar casa própria.
+LPSgoal3: Ter negócio próprio lucrativo.
+LPSgoal4: Ter independência financeira.
+LPSgoal5: Ser feliz.
+LPSgoal6: Visitar meus familiares periodicamente.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 101 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Aprender a tocar um instrumento musical, cavaquinho.
+LPSgoal2: Adotar um filho ou filha.
+LPSgoal3: Assumir o gerenciamento de projeto de conservação ambiental de grande porte.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 102 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Voltar para o mercado de trabalho.
+LPSgoal2: Formar na segunda graduação.
+LPSgoal3: Iniciar um mestrado.
+LPSgoal4: Viajar uma vez por ano.
+LPSgoal5: Encontrar mais com meus amigos.
+LPSgoal6: Fazer atividade física com disciplina.
+LPSgoal7: Visitar parentes que moram longe.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 103 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Quitar uma das dívidas em relação à minha casa.
+LPSgoal2: Casar.
+LPSgoal3: Ter meu primeiro filho.
+LPSgoal4: Quitar a segunda dívida em relação à minha casa.
+LPSgoal5: Voltar à Europa.
+LPSgoal6: Comemorar meu aniversário em Búzios.
+LPSgoal7: Terminar minha segunda graduação.
+LPSgoal8: Emagrecer 10 quilos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 104 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Adquirir minha casa própria.
+LPSgoal2: Comprar um carro.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 105 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Aposentar.
+LPSgoal2: Ir morar fora do país.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 106 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viajar mais.
+LPSgoal2: Apreender inglês.
+LPSgoal3: Simplificar a vida.
+LPSgoal4: Nadar.
+LPSgoal5: Conviver mais com os amigos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 107 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me aposentar.
+LPSgoal2: Me formar.
+LPSgoal3: Viajar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 108 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casa própria.
+LPSgoal2: Filho.
+LPSgoal3: Concursada.
+LPSgoal4: Carro novo.
+LPSgoal5: Dinheiro aplicado.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 109 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Registrar meus produtos.
+LPSgoal2: Me curar das dores.
+LPSgoal3: Ser uma boleira profissional.
+LPSgoal4: Ter uma filha.
+LPSgoal5: Comprar um carro.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 110 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casar.
+LPSgoal2: Ser pai.
+LPSgoal3: Viajar para Europa.
+LPSgoal4: Estabilidade financeira.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 111 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Formar uma família.
+LPSgoal2: Desempenhar a minha função visando o bem comum.
+LPSgoal3: Aperfeiçoamento profissional.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 112 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter nova profissão, terapeuta antroposófica.
+LPSgoal2: Morar em uma casa de campo.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 113 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Recursos_Humanos.
+LPSgoal2: Diretor.
+LPSgoal3: Casar.
+LPSgoal4: Filho.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 114 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser feliz.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 115 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me formar na graduação.
+LPSgoal2: Abrir meu consultório.
+LPSgoal3: Fazer pós_graduação.
+LPSgoal4: Ser mãe.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 116 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me formar.
+LPSgoal2: Prestar concurso público.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 117 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Curtir bastante a minha neta.
+LPSgoal2: Viajar bastante.
+LPSgoal3: Retornar ao piano.
+LPSgoal4: Decorar a sala da minha casa.
+LPSgoal5: Trocar de carro.
+LPSgoal6: Confeccionar crochê.
+LPSgoal7: Arrumar o meu jardim e temperos.
+LPSgoal8: Comemorar e festejar a vida.
+LPSgoal9: Aprender a nadar.
+LPSgoal10: Me tornar uma pessoa melhor.
+LPSgoal11: Me dedicar mais na e para as atividades da igreja.
+LPSgoal12: Melhorar a paciência e ansiedade.
+LPSgoal13: Encontrar mais os amigos e amigas.
+LPSgoal14: Preparar o álbum da minha filha caçula.
+LPSgoal15: Produzir textos como diários, poesias e livros.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 118 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concurso.
+LPSgoal2: Viajar pelo mundo.
+LPSgoal3: Morar em um sítio.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 119 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Abrir uma escola de filosofia.
+LPSgoal2: Abrir uma clínica com meu nome.
+LPSgoal3: Casar.
+LPSgoal4: Ter um ou dois filhos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 120 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Quitar financiamento imóvel.
+LPSgoal2: Empreender, Plano B se tornar Plano A
+LPSgoal3: Correr uma maratona.
+LPSgoal4: Nadar uma maratona aquática.
+LPSgoal5: Viagem Machu_Picchu com família.
+LPSgoal6: Ter ao menos 5 bitcoins.
+LPSgoal7: Criar minha filha para ser autora da própria história.
+LPSgoal8: Morar em uma cidade litorânea fora dos grandes centros.
+LPSgoal9: Realizar uma prova de triatlo.
+LPSgoal10: Nadar a travessia do estreito de bósforo na Turquia.
+LPSgoal11: Trocar de carro.
+LPSgoal12: Ler ao menos 10 livros ao ano.
+LPSgoal13: Escrever um livro de minhas memórias esportivas.
+LPSgoal14: Ter uma cafeteria com local para leitura.
+LPSgoal15: Obter cada vez mais conhecimento em blockchain e criptoativos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 121 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Trabalhar com o que eu quero, com o que me inspira.
+LPSgoal2: Filhos.
+LPSgoal3: Ficar em paz comigo mesmo.
+LPSgoal4: Conhecer culturas.
+LPSgoal5: Aprender novas línguas.
+LPSgoal6: Morar em um lugar ideal.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 122 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser professor de uma universidade.
+LPSgoal2: Coordenar um laboratório de pesquisa.
+LPSgoal3: Casar.
+LPSgoal4: Filhos.
+LPSgoal5: Casa própria.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 123 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar de pagar meu apartamento.
+LPSgoal2: Comprar um carro.
+LPSgoal3: Terminar faculdade.
+LPSgoal4: Terminar curso de inglês.
+LPSgoal5: Ter outra fonte de renda.
+LPSgoal6: Morar um tempo em outro país.
+LPSgoal7: Ter um negócio lucrativo.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 124 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar faculdade.
+LPSgoal2: Ter minha casa.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 125 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Expansão da criação.
+LPSgoal2: Expansão das acomodações do ambiente de trabalho.
+LPSgoal3: Autoeducação.
+LPSgoal4: Curso específico.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 126 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser chamada no concurso que passei.
+LPSgoal2: Atuar na minha profissão.
+LPSgoal3: Fazer pós_graduação.
+LPSgoal4: Passar em residência_médica.
+LPSgoal5: Comprar meu apartamento.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 127 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Fazer uma viagem.
+LPSgoal2: Tratamento odontológico.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 128 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viagem internacional.
+LPSgoal2: Fazer o curso de medicina.
+LPSgoal3: Viajar.
+LPSgoal4: Fazer procedimentos estéticos.
+LPSgoal5: Ter um filho.
+LPSgoal6: Conseguir um emprego.
+LPSgoal7: Ter uma casa.
+LPSgoal8: Ter um carro.
+LPSgoal9: Passar mais tempo com a família.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 129 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estudo superior.
+LPSgoal2: Emprego.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 130 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter uma moto.
+LPSgoal2: Ser autônomo.
+LPSgoal3: Concluir os estudos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 131 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casa própria.
+LPSgoal2: Filho.
+LPSgoal3: Mestrado.
+LPSgoal4: Outra faculdade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 132 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me formar na segunda graduação.
+LPSgoal2: Passar na Ordem dos Advogados do Brasil.
+LPSgoal3: Iniciar mestrado ou especialização.
+LPSgoal4: Morar sozinha.
+LPSgoal5: Adotar uma criança.
+LPSgoal6: Exercício constante.
+LPSgoal7: Visitar amigos que moram longe com mais frequência.
+LPSgoal8: Viajar com mais frequência.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 133 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estabilidade profissional.
+LPSgoal2: Cerimônia de casamento.
+LPSgoal3: Ter filhos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 134 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me tornar um artista competente.
+LPSgoal2: Me tornar um cantor competente.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 135 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Adquirir um imóvel.
+LPSgoal2: Melhorar financeiramente.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 136 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar a graduação.
+LPSgoal2: Intercâmbio.
+LPSgoal3: Fluência idioma 1.
+LPSgoal4: Segundo intercâmbio.
+LPSgoal5: Fluência idioma 2.
+LPSgoal6: Mestrado.
+LPSgoal7: Cidadania.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 137 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mestrado.
+LPSgoal2: Ter uma clínica multidisciplinar.
+LPSgoal3: Filho formado em medicina.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 138 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Comprar apartamento.
+LPSgoal2: Viver de renda.
+LPSgoal3: Abrir o próprio negócio.
+LPSgoal4: Viajar para a Europa.
+LPSgoal5: Me casar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 139 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me manter ativa, exercícios e caminhadas.
+LPSgoal2: Viagens nacionais e internacionais.
+LPSgoal3: Comprar casa na praia.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 140 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estudar para iniciar um negócio próprio e fazer investimento.
+LPSgoal2: Emprego em uma organização.
+LPSgoal3: Dar aula.
+LPSgoal4: Finalizar o doutorado.
+LPSgoal5: Constituir família, adotar ou ter filhos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 141 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Trabalho com dignidade para aposentadoria amena.
+LPSgoal2: Saúde e um dinheiro para curtir a aposentadoria.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 142 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Fazer uma boa faculdade.
+LPSgoal2: Ter vários amigos.
+LPSgoal3: Encontrar o amor da minha vida.
+LPSgoal4: Ter filhos.
+LPSgoal5: Ter um bom trabalho.
+LPSgoal6: Ter uma boa qualidade de vida.
+LPSgoal7: Ter animais de estimação.
+LPSgoal8: Poder saber falar fluente o inglês
+LPSgoal9: Ser feliz.
+LPSgoal10: Conhecer vários países.
+LPSgoal11: Continuar sendo amiga dos meus amigos de hoje.
+LPSgoal12: Ser vegetariana.
+LPSgoal13: Continuar com minha fé.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 143 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Comprar um apartamento.
+LPSgoal2: Trocar o carro.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 144 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Morar e trabalhar em outro país.
+LPSgoal2: Conseguir trabalhar na área de design e marketing em outro país.
+LPSgoal3: Iniciar um mestrado em artes ou ilustração.
+LPSgoal4: Começar a trabalhar com ilustração.
+LPSgoal5: Iniciar a transição para que seja possível trabalhar apenas com ilustração.
+LPSgoal6: Estabilidade financeira através de investimentos para trabalhar com ilustração ou arte.
+LPSgoal7: Voltar para meu país de origem.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 145 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Autossuficiência financeira.
+LPSgoal2: Poder viver morando em lugares diferentes.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 146 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ganhar dinheiro.
+LPSgoal2: Construir família.
+LPSgoal3: Viver de renda.
+LPSgoal4: Ajudar pessoas próximas a mim.
+LPSgoal5: Morar em frente à praia.
+LPSgoal6: Fazer um ironman.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 147 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter uma casa na praia.
+LPSgoal2: Aposentar.
+LPSgoal3: Ter uma fazenda.
+LPSgoal4: Plantação de cogumelo.
+LPSgoal5: Morar com minha mãe.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 148 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Conseguir me formar.
+LPSgoal2: Conquistar um excelente emprego.
+LPSgoal3: Casar.
+LPSgoal4: Ter filhos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 149 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Aposentar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 150 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Reformar a casa.
+LPSgoal2: Emagrecer.
+LPSgoal3: Viajar.
+LPSgoal4: Comprar um carro.
+LPSgoal5: Ser avó.
+LPSgoal6: Aposentar.
+LPSgoal7: Fazer plástica.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 151 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mudar de profissão.
+LPSgoal2: Viajar mais.
+LPSgoal3: Mestrado.
+LPSgoal4: Comprar um apartamento.
+LPSgoal5: Casar.
+LPSgoal6: Trabalhar um somente um horário.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 152 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Trabalho seguro.
+LPSgoal2: Reconhecimento.
+LPSgoal3: Dominar o que faz.
+LPSgoal4: Profissional atuante.
+LPSgoal5: Bens materiais.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 153 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Depois de me forma na faculdade, atuar na área fazendo o que gosto.
+LPSgoal2: Após formada fazer pós_graduação e me especializar na minha área.
+LPSgoal3: Transformar minha loja online em loja física.
+LPSgoal4: Conseguir meu próprio espaço de trabalho.
+LPSgoal5: Minha casa própria.
+LPSgoal6: Obter sucesso e ser reconhecida pelo meu trabalho.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 154 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Sair de casa.
+LPSgoal2: Carro.
+LPSgoal3: Ganhar mais de dez mil por mês.
+LPSgoal4: Ganhar mais de 50 mil por mês
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 155 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Filho.
+LPSgoal2: Estabilidade financeira.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 156 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser uma pessoa mais equilibrada emocionalmente.
+LPSgoal2: Aprender mais sobre várias coisas.
+LPSgoal3: Ajudar pessoas que de fato precisam.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 157 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir a graduação.
+LPSgoal2: Trabalhar em uma empresa grande.
+LPSgoal3: Poder trabalhar em qualquer lugar do mundo remotamente.
+LPSgoal4: Morar fora do país.
+LPSgoal5: Ter estabilidade financeira.
+LPSgoal6: Casar.
+LPSgoal7: Viajar por lugares legais.
+LPSgoal8: Ter um podcast.
+LPSgoal9: Ter um filho ou filha.
+LPSgoal10: Abrir uma loja.
+LPSgoal11: Abrir um bar.
+LPSgoal12: Adotar uma criança.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 158 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Realização profissional.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 159 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Morar em Portugal.
+LPSgoal2: Ler todos meus livros.
+LPSgoal3: Trabalhar com drinks.
+LPSgoal4: Ter filhos.
+LPSgoal5: Ter uma casa própria.
+LPSgoal6: Voltar a jogar Magic.
+LPSgoal7: Escrever meu sistema de RPG.
+LPSgoal8: Realizar algum projeto criativo com os amigos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 160 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viajar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 161 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viver.
+LPSgoal2: Ver os filhos e netos felizes.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 162 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Oficializar união.
+LPSgoal2: Ter filhos.
+LPSgoal3: Mestrado.
+LPSgoal4: Doutorado.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 163 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Comprar minha casa.
+LPSgoal2: Comprar meu carro.
+LPSgoal3: Renda salarial acima de 5 mil.
+LPSgoal4: Pensão para as filhas.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 164 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter uma casa.
+LPSgoal2: Casar.
+LPSgoal3: Aposentar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 165 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Sair do meu atual casamento e ser uma pessoa sozinha da qual me considerarei livre e feliz.
+LPSgoal2: Me sustentar sozinha e não depender de ninguém financeiramente no qual eu precisarei obedecer e dever satisfações das quais me prendem a ser eu mesma.
+LPSgoal3: Me encontrar satisfeita comigo mesmo fisicamente mentalmente.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 166 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Comprar carro.
+LPSgoal2: Comprar apartamento.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 167 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Trabalho voluntário consistente.
+LPSgoal2: Comprar uma casa no país onde vivo.
+LPSgoal3: Reconhecer meus diplomas no país onde vivo.
+LPSgoal4: Finalizar universidade em educação infantil.
+LPSgoal5: Viajar pelo meu país de origem.
+LPSgoal6: Dedicar mais tempo à minha saúde.
+LPSgoal7: Encontrar um parceiro estável para me relacionar.
+LPSgoal8: Constituir uma família.
+LPSgoal9: Aprofundar o aprendizado sobre espiritualidade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 168 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Passar no meu primeiro concurso, analista tribunal de justiça.
+LPSgoal2: Passar no meu segundo concurso, defensora pública.
+LPSgoal3: Adotar meus filhos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 169 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Continuar firme na presença de Jesus.
+LPSgoal2: Esperar a volta de Jesus.
+LPSgoal3: Ter mais sabedoria.
+LPSgoal4: Vivo a cada dia, como diz a palavra de Deus, cada dia é seu malamar.
+LPSgoal5: Amar o próximo, independentemente de suas escolhas.
+LPSgoal6: Já foram respondidas.
+LPSgoal7: Continuar meus exercícios para o bem da minha saúde.
+LPSgoal8: Sonho com um mundo melhor para a humanidade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 170 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Doutorado.
+LPSgoal2: Chácara.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 171 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Trocar de moto.
+LPSgoal2: Mudar de residência
+LPSgoal3: Ter filhos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 172 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Fazer doutorado.
+LPSgoal2: Voltar a uma forma física saudável.
+LPSgoal3: Fazer mais uma especialização.
+LPSgoal4: Arrumar guarda_roupa.
+LPSgoal5: Levar meus primos em uma viagem.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 173 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casar.
+LPSgoal2: Aprovação em concurso.
+LPSgoal3: Ter minha casa.
+LPSgoal4: Ter um filho.
+LPSgoal5: Ter um filho.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 174 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Apartamento.
+LPSgoal2: Carro.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 175 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Trabalho fixo.
+LPSgoal2: Casa própria.
+LPSgoal3: Terminar minha faculdade.
+LPSgoal4: Ser bem remunerada.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 176 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Reformar minha casa.
+LPSgoal2: Reconstruir minha família.
+LPSgoal3: Fazer a festa de 15 anos da minha primeira filha.
+LPSgoal4: Ir para a Europa.
+LPSgoal5: Ir para Gramado.
+LPSgoal6: Tirar carteira de motorista.
+LPSgoal7: Ir pra Disney com minhas filhas e nora.
+LPSgoal8: Conhecer a Grécia.
+LPSgoal9: Ter meu apartamento.
+LPSgoal10: Fazer cursos internacionais.
+LPSgoal11: Fazer faculdade.
+LPSgoal12: Fazer uma tatuagem.
+LPSgoal13: Comprar móveis novos.
+LPSgoal14: Comprar outro celular.
+LPSgoal15: Conhecer Silvio_Santos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 177 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir meu mestrado.
+LPSgoal2: Morar sozinha.
+LPSgoal3: Começar carreira na docência.
+LPSgoal4: Começar doutorado.
+LPSgoal5: Conhecer outro país.
+LPSgoal6: Conseguir dar conforto financeiro para minha mãe.
+LPSgoal7: Ajudar instituições que ofereçam suporte a pessoas e animais mais ativamente.
+LPSgoal8: Viajar pelo país acompanhando meu clube de futebol.
+LPSgoal9: Ser reconhecida na minha profissão.
+LPSgoal10: Comprar um carro.
+LPSgoal11: Ter casa própria.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 178 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir minha segunda graduação.
+LPSgoal2: Concluir minha segunda especialização.
+LPSgoal3: Tomar no cargo público em que fui aprovada.
+LPSgoal4: Casar.
+LPSgoal5: Ser mãe.
+LPSgoal6: Casa própria.
+LPSgoal7: Curso rápido nos Estado_Unidos.
+LPSgoal8: Férias em Cancún.
+LPSgoal9: Comprar chácara.
+LPSgoal10: Independência financeira.
+LPSgoal11: Fluência em inglês.
+LPSgoal12: Fluência espanhol.
+LPSgoal13: Aprender francês.
+LPSgoal14: Promoção no trabalho.
+LPSgoal15: Comprar meu carro.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 179 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viajar e conhecer mais lugares no mundo.
+LPSgoal2: Definir meu caminho profissional.
+LPSgoal3: Morar em outra cidade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 180 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter condições de investir dinheiro para garantir meu futuro.
+LPSgoal2: Tirar um ano para morar na Índia ou retiro espiritual.
+LPSgoal3: Trabalhar com atendimento individual de executivos.
+LPSgoal4: Estar em um relacionamento sério.
+LPSgoal5: Ter um filho.
+LPSgoal6: Fazer doutorado.
+LPSgoal7: Ser professora de pós_gradução.
+LPSgoal8: Conhecer Peru.
+LPSgoal9: Viajar na Tailândia.
+LPSgoal10: Calibrar melhor qual o meu propósito.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 181 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Qualidade de vida.
+LPSgoal2: Comprar um carro.
+LPSgoal3: Passar mais tempo com a família e amigos.
+LPSgoal4: Viagem.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 182 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mudança de casa.
+LPSgoal2: Aposentadoria do trabalho.
+LPSgoal3: Aposentadoria.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 183 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Entrar como servidora na Universidade.
+LPSgoal2: Começar o mestrado em políticas públicas.
+LPSgoal3: Concluir o mestrado.
+LPSgoal4: Dar aula em uma universidade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 184 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me formar.
+LPSgoal2: Ter um relacionamento amoroso.
+LPSgoal3: Me formar na residência_médica.
+LPSgoal4: Casar.
+LPSgoal5: Ter filhos.
+LPSgoal6: Bom emprego.
+LPSgoal7: Carteira de motorista.
+LPSgoal8: Cuidar da estética bucal.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 185 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Aposentar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 186 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter um filho.
+LPSgoal2: Estudar psicologia.
+LPSgoal3: Viajar para a Europa.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 187 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter outro filho.
+LPSgoal2: Construir um terraço de casa.
+LPSgoal3: Ter autonomia financeira.
+LPSgoal4: Casar.
+LPSgoal5: Fazer uma piscina no quintal.
+LPSgoal6: Fazer mestrado.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 188 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Falar inglês fluente.
+LPSgoal2: Ver meus filhos encaminhados na vida.
+LPSgoal3: Conseguir trabalhar no país que moro hoje.
+LPSgoal4: Ter uma estabilidade financeira na vida.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 189 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar minha casa.
+LPSgoal2: Casar.
+LPSgoal3: Viajar para Angra_dos_Reis.
+LPSgoal4: Ter filhos.
+LPSgoal5: Ver meus pais servirem a Deus.
+LPSgoal6: Continuar servindo a Deus.
+LPSgoal7: Comprar um carro.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 190 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter mais conhecimento na minha área.
+LPSgoal2: Abrir meu próprio negócio.
+LPSgoal3: Passar mais tempo com minha família.
+LPSgoal4: Perder peso.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 191 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mestrado.
+LPSgoal2: Pagamento total da minha casa.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 192 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Comprar carro novo.
+LPSgoal2: Finalizar o mestrado.
+LPSgoal3: Viajar.
+LPSgoal4: Trabalha com projetos.
+LPSgoal5: Trabalhar como voluntária na comunidade.
+LPSgoal6: Passar mais tempo com a família.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 193 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Aposentar.
+LPSgoal2: Comprar uma casa no interior.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 194 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mestrado.
+LPSgoal2: União amorosa.
+LPSgoal3: Ganhar na loteria.
+LPSgoal4: Novo emprego.
+LPSgoal5: Montar empresa no exterior.
+LPSgoal6: Morar no exterior.
+LPSgoal7: Montar ONG.
+LPSgoal8: União familiar.
+LPSgoal9: Emagrecer.
+LPSgoal10: Firmar em uma religião.
+LPSgoal11: Trabalho voluntário.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 195 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Residência fixa nos Estados_Unidos.
+LPSgoal2: Cidadania americana.
+LPSgoal3: Casa própria nos Estados_Unidos.
+LPSgoal4: Filhos formados
+LPSgoal5: Dívidas pagas.
+LPSgoal6: Manter meu peso.
+LPSgoal7: Me espiritualizar mais.
+LPSgoal8: Ajudar a família.
+LPSgoal9: Ser plenamente feliz.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 196 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casar.
+LPSgoal2: Trocar de carro.
+LPSgoal3: Ter filhos.
+LPSgoal4: Fazer outra graduação.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 197 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Compra meu caminhão.
+LPSgoal2: Ter mais um filho.
+LPSgoal3: Poder planejar mais o meu momento de lazer.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 198 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viver o hoje.
+LPSgoal2: Ajudar profissionalmente.
+LPSgoal3: Voluntariado.
+LPSgoal4: Viajar.
+LPSgoal5: Mudar de apartamento.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 199 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Autonomia financeira.
+LPSgoal2: Viajar.
+LPSgoal3: Filhos com autonomia financeira.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 200 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar segunda graduação.
+LPSgoal2: Fazer mestrado.
+LPSgoal3: Trabalhar como professor.
+LPSgoal4: Publicar artigos.
+LPSgoal5: Ler ao menos um livro por mês.
+LPSgoal6: Me organizar mentalmente.
+LPSgoal7: Montar meu apartamento.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 201 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estabelecer financeiramente.
+LPSgoal2: Família.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 202 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Trabalhar como enfermeira.
+LPSgoal2: Fazer uma pós_graduação.
+LPSgoal3: Ter um relacionamento sério.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 203 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Mudar de emprego.
+LPSgoal2: Concluir minha especialização.
+LPSgoal3: Voltar a estudar inglês.
+LPSgoal4: Viajar para outro país.
+LPSgoal5: Comprar carro.
+LPSgoal6: Ter um relacionamento sério.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 204 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viver bem.
+LPSgoal2: Ser feliz.
+LPSgoal3: Aproveitar a vida.
+LPSgoal4: Agradecer.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 205 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Finalizar doutorado.
+LPSgoal2: Professor universitário.
+LPSgoal3: Afastamento do primeiro emprego.
+LPSgoal4: Viver à beira do mar.
+LPSgoal5: Me expandir como escritor de literatura.
+LPSgoal6: Criar uma ONG de combate à violência contra crianças.
+LPSgoal7: Mais tempo dedicado a atividades prazerosas, bem_estar físico e mental.
+LPSgoal8: Mais tempo de cuidados aos meus pais.
+LPSgoal9: Mais tempo com amigos.
+LPSgoal10: Mais tempo com meus irmãos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 206 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Consolidação no nível gerencial ou especialista.
+LPSgoal2: Comprar ou construir uma casa.
+LPSgoal3: Ter meu próprio negócio.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 207 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ver meus filhos realizados.
+LPSgoal2: Continuar produzindo.
+LPSgoal3: Ter alguém ao meu lado.
+LPSgoal4: Me sentir plena.
+LPSgoal5: Ver meus netos crescerem.
+LPSgoal6: Manter os meus amigos.
+LPSgoal7: Continuar com meus trabalhos voluntários.
+LPSgoal8: Ter saúde, manter meus exercícios físicos.
+LPSgoal9: Parar de fumar.
+LPSgoal10: Perder peso.
+LPSgoal11: Ser menos ansiosa.
+LPSgoal12: Viajar mais.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 208 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Meu caráter ser desenvolvido.
+LPSgoal2: Ter bons relacionamentos.
+LPSgoal3: Minhas atitudes serem congruentes com as minhas crenças.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 209 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Qualidade de vida.
+LPSgoal2: Estabilidade.
+LPSgoal3: Harmonia em família.
+LPSgoal4: Ter renda própria.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 210 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar doutorado.
+LPSgoal2: Me tornar professor universitário.
+LPSgoal3: Independência financeira.
+LPSgoal4: Escrever o romance que preparo há tempos.
+LPSgoal5: Me instalar definitivamente em algum país ou lugar.
+LPSgoal6: Me engajar em atividade com impacto social relacionada à educação.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 211 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser feliz.
+LPSgoal2: Ter saúde.
+LPSgoal3: Ter segurança material.
+LPSgoal4: Viajar para vários países.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 212 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Arrumar emprego.
+LPSgoal2: Alcançar a independência financeira.
+LPSgoal3: Ter filhos.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 213 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me formar na universidade.
+LPSgoal2: Ter uma boa carreira profissional.
+LPSgoal3: Construir uma família.
+LPSgoal4: Viajar o mundo.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 214 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir vários projetos de extensão.
+LPSgoal2: Professor titular.
+LPSgoal3: Aposentar.
+LPSgoal4: Atuar no planejamento habitacional.
+LPSgoal5: Ter uma casa de férias.
+LPSgoal6: Não ter dívidas.
+LPSgoal7: Ajudar minha filha.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 215 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Recolocar no mercado de trabalho.
+LPSgoal2: Estar feliz no meu trabalho.
+LPSgoal3: Fazer pós_graduação.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 216 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me tornar médica.
+LPSgoal2: Obter independência financeira.
+LPSgoal3: Ter uma família.
+LPSgoal4: Realizar mais trabalhos voluntários.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 217 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casar.
+LPSgoal2: Filho.
+LPSgoal3: Ter casa própria.
+LPSgoal4: Ser boa na minha profissão.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 218 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estabilidade profissional.
+LPSgoal2: Família completa.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 219 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Doutorado.
+LPSgoal2: Concurso.
+LPSgoal3: Mestrado.
+LPSgoal4: Carro.
+LPSgoal5: Apartamento.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 220 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Conclusão do mestrado.
+LPSgoal2: Conclusão segunda graduação.
+LPSgoal3: Viajar para os Estados_Unidos para ver meu filho.
+LPSgoal4: Reformar casa.
+LPSgoal5: Ingressar doutorado.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 221 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Adotar uma criança.
+LPSgoal2: Constituir uma família.
+LPSgoal3: Trabalhar de segunda_feira a sexta_feira.
+LPSgoal4: Comprar um apartamento.
+LPSgoal5: Ter mais tempo para os amigos.
+LPSgoal6: Dar conforto para os meus pais.
+LPSgoal7: Me tornar uma pessoa melhor.
+LPSgoal8: Vou a fazer várias atividades físicas.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 222 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser autônomo.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 223 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Manter e preservar minha saúde física e espiritual, melhorando a qualidade nutritiva de todos os alimentos que consumo diariamente em todos os dias da semana e intensificando as atividades físicas que faço semanalmente, chegando a praticar atividade física sete dias por semana.
+LPSgoal2: Intensificar e sistematizar os encontros familiares de modo que me reúna com minha família mensalmente.
+LPSgoal3: Amar a cada dia mais a minha filha e a orientar em todas as esferas de sua vida.
+LPSgoal4: Me organizar para viajar uma vez por ano para fora do Brasil e uma dentro do país a passeio e com os que amo.
+LPSgoal5: Demonstrar diariamente meu amor às pessoas com as quais convivo e perceber o amor que recebo em todos os detalhes.
+LPSgoal6: Manter regularidade e equilibro entre tempo para família, para estudos e para o trabalho.
+LPSgoal7: Falar sistemática e regularmente com meus amigos e fazer o bem a todos eles, dentro do que estiver ao meu alcance.
+LPSgoal8: Concluir com êxito todas as disciplinas do doutorado em educação que estou cursando e produzir artigos relevantes do ponto de vista científico e que contribuam na constituição da educação como ciência.
+LPSgoal9: Concluir meu doutorado em três anos.
+LPSgoal10: Ser reconhecida profissionalmente e obter remuneração de 20 salários mínimos mensalmente.
+LPSgoal11: Ser justa, produtiva e amistosa minhas decisões como gestora de educação.
+LPSgoal12: Fazer a diferença para o bem de todas as pessoas que possam ser impactadas por minhas ações.
+LPSgoal13: Ser aprovada em concurso para ingresso na rede federal.
+LPSgoal14: Mudar para uma casa maior onde possa receber melhor a minha família, sem acumular grandes dívidas que possam tirar minha paz de espírito.
+LPSgoal15: Ter uma vida feliz, saudável, abundante, próxima dos meus amados e viver até 101 anos para ajudar minha filha e seus filhos na educação dos meus descendentes.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 224 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Um mundo melhor.
+LPSgoal2: Que haja igualdade para todos.
+LPSgoal3: Terminar os meus estudos.
+LPSgoal4: Iniciar outra faculdade.
+LPSgoal5: Ter uma vida estável.
+LPSgoal6: Passar para frente os meus conhecimentos.
+LPSgoal7: Iniciar um mestrado.
+LPSgoal8: Terminar o meu estudo.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 225 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Crescimento profissional.
+LPSgoal2: Crescimento espiritual.
+LPSgoal3: Uma vida de prosperidade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 226 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser professora universitária.
+LPSgoal2: Aprender várias línguas.
+LPSgoal3: Viajar para o exterior.
+LPSgoal4: Ter um filho.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 227 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Reduzir consumismo.
+LPSgoal2: Quitar empréstimo.
+LPSgoal3: Fazer reserva financeira.
+LPSgoal4: Iniciar reforma em minha casa.
+LPSgoal5: Ler e viajar mais.
+LPSgoal6: Planejar e preparar cardápios alimentares semanais.
+LPSgoal7: Dar mais assistência para o meu pai e o meu cachorro.
+LPSgoal8: Fazer cursos, estudar, aprender coisas novas.
+LPSgoal9: Sair mais com amigas.
+LPSgoal10: Dormir melhor.
+LPSgoal11: Participar mais da igreja, rezar mais.
+LPSgoal12: Participar de grupo de ajuda ao próximo.
+LPSgoal13: Otimizar e organizar o meu tempo.
+LPSgoal14: Caminhar rotineiramente e continuar na academia.
+LPSgoal15: Ter um carro.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 228 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Especialização.
+LPSgoal2: Maternidade.
+LPSgoal3: Um novo emprego ou desafio.
+LPSgoal4: Investir tempo nas relações familiares, amigos e espiritualidade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 229 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viajar para o exterior.
+LPSgoal2: Trocar de carro.
+LPSgoal3: Conhecer a Europa.
+LPSgoal4: Fazer um cruzeiro.
+LPSgoal5: Visitar a Terra_Santa.
+LPSgoal6: Visitar Trindade no Pai_Eterno.
+LPSgoal7: Ir à Disney.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 230 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me formar.
+LPSgoal2: Arrumar um trabalho.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 231 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casa.
+LPSgoal2: Filho.
+LPSgoal3: Viagens.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 232 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar faculdade.
+LPSgoal2: Ser totalmente vegana.
+LPSgoal3: Ter uma casa.
+LPSgoal4: Viver do que vou plantar.
+LPSgoal5: Ter emprego que ajude outras pessoas.
+LPSgoal6: Acabar com o patriarcado.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 233 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir o doutorado
+LPSgoal2: Ter filho.
+LPSgoal3: Mudar de emprego
+LPSgoal4: Plástica
+LPSgoal5: Viagem pela Europa.
+LPSgoal6: Fechar o possível diagnóstico de Asperger
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 234 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ser feliz.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 235 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir meu doutorado.
+LPSgoal2: Terminar de pagar meu apartamento próprio.
+LPSgoal3: Estudar no exterior.
+LPSgoal4: Atuar como professora universitária.
+LPSgoal5: Iniciar pós_doutorado.
+LPSgoal6: Trocar de carro.
+LPSgoal7: Melhorar o condicionamento físico.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 236 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estabilidade econômica.
+LPSgoal2: Ter um emprego melhor.
+LPSgoal3: Perder peso.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 237 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Passar em um concurso.
+LPSgoal2: Fazer mestrado.
+LPSgoal3: Fazer doutorado.
+LPSgoal4: Casar.
+LPSgoal5: Ter filhos.
+LPSgoal6: Morar um ano no exterior.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 238 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Conseguir um novo emprego.
+LPSgoal2: Conseguir me especializar profissionalmente.
+LPSgoal3: Ter casa e carro próprio.
+LPSgoal4: Ter uma alimentação saudável e praticar atividade física.
+LPSgoal5: Dividir a mesma casa com alguém especial.
+LPSgoal6: Contribuir para a educação da minha irmã.
+LPSgoal7: Controlar minha ansiedade e estabilidade emocional.
+LPSgoal8: Estabilidade financeira.
+LPSgoal9: Conhecer lugares diferentes no Brasil e em outros países.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 239 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Abrir um terreiro.
+LPSgoal2: Plástica.
+LPSgoal3: Morar na praia.
+LPSgoal4: Ter um relacionamento.
+LPSgoal5: Mestrado.
+LPSgoal6: Pós_graduação.
+LPSgoal7: Mudar de casa.
+LPSgoal8: Fazer atividade física.
+LPSgoal9: Estudar mais sobre a minha religião.
+LPSgoal10: Viajar mais.
+LPSgoal11: Estar com a minha família.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 240 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Terminar minha pós_graduação.
+LPSgoal2: Aprender fluentemente uma língua.
+LPSgoal3: Iniciar meu mestrado.
+LPSgoal4: Desenvolver minha pesquisa e melhorar a educação.
+LPSgoal5: Ter meu espaço de desenvolvimento infantil.
+LPSgoal6: Melhorar minha qualidade de vida.
+LPSgoal7: Evoluir espiritualmente.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 241 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Voltar com método de emagrecimento.
+LPSgoal2: Crescer a Loja de Bory.
+LPSgoal3: Comprar e morar em uma casa.
+LPSgoal4: Meu esposo ter negócio próprio.
+LPSgoal5: Viajem de sonhos uma vez por ano.
+LPSgoal6: Ter um segundo filho.
+LPSgoal7: Colocar o plano garrafa_mágica em prática.
+LPSgoal8: Atingir forma de corpo sonhada.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 242 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casa própria.
+LPSgoal2: Viagem à Europa.
+LPSgoal3: Filhos.
+LPSgoal4: Carro novo.
+LPSgoal5: Terminar outra faculdade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 243 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estabilidade financeira.
+LPSgoal2: Estabilidade emocional.
+LPSgoal3: Estabilidade familiar.
+LPSgoal4: Paz espiritual.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 244 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Viagens.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 245 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Passar no concurso de auditor fiscal.
+LPSgoal2: Fazer uma viagem pela Europa.
+LPSgoal3: Começar a comprar minha casa própria.
+LPSgoal4: Casar.
+LPSgoal5: Me tornar pai.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 246 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Morar sozinha e sair de casa.
+LPSgoal2: Ser concursada.
+LPSgoal3: Entrar em um mestrado.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 247 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Me formar na faculdade.
+LPSgoal2: Arrumar um emprego.
+LPSgoal3: Estabilidade financeira.
+LPSgoal4: Me casar.
+LPSgoal5: Ter filhos.
+LPSgoal6: Fazer residência_médica.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 248 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casa própria.
+LPSgoal2: Ter sítio.
+LPSgoal3: Viagem exterior.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 249 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Estabilidade financeira.
+LPSgoal2: Ajudar filhos com estudos.
+LPSgoal3: Comprar um carro.
+LPSgoal4: Viajar.
+LPSgoal5: Ter meu próprio negócio.
+LPSgoal6: Ter mais tempo para minha família.
+LPSgoal7: Melhorar minha espiritualidade.
+LPSgoal8: Fazer trabalho voluntário.
+LPSgoal9: Praticar exercício físico.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 250 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casar.
+LPSgoal2: Ter filhos.
+LPSgoal3: Estudar fora do país.
+LPSgoal4: Ter um emprego.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 251 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Defender o doutorado.
+LPSgoal2: Passar em um concurso.
+LPSgoal3: Casar.
+LPSgoal4: Ter filho.
+LPSgoal5: Abrir uma empresa.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 252 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Concluir o doutorado.
+LPSgoal2: Conseguir um emprego.
+LPSgoal3: Ter uma família.
+LPSgoal4: Filhos.
+LPSgoal5: Fazer mais trabalho voluntários.
+LPSgoal6: Me capacitar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 253 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ter uma carreira estável.
+LPSgoal2: Casar.
+LPSgoal3: Ter minha casa.
+LPSgoal4: Viajar.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 254 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Trabalhar em uma boa empresa e na minha área.
+LPSgoal2: Comprar um computador.
+LPSgoal3: Começar outra faculdade.
+LPSgoal4: Comprar uma casa.
+LPSgoal5: Me tornar viajante.
+LPSgoal6: Crescer intelectualmente.
+LPSgoal7: Voltar ao inglês.
+LPSgoal8: Terminar a faculdade.
+LPSgoal9: Encontrar meu par.
+LPSgoal10: Voltar a produzir textos.
+LPSgoal11: Participar de mais movimentos sociais.
+LPSgoal12: Cuidar mais da minha saúde.
+LPSgoal13: Ajudar meus pais financeiramente.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 255 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Ingressar no meu emprego dos sonhos.
+LPSgoal2: Fazer pós_graduação.
+LPSgoal3: Casar.
+LPSgoal4: Ter filhos.
+LPSgoal5: Viajar para ver uma etapa do mundial de surf fora do Brasil.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 256 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Contribuir significativamente para o entendimento da Doença de Alzheimer.
+LPSgoal2: Ser educadora.
+LPSgoal3: Ser financeiramente independente e bancar minha família.
+LPSgoal4: Ter um relacionamento saudável com a comida e com meu corpo.
+LPSgoal5: Amar e ser amada por alguém.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 257 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Família.
+LPSgoal2: Bem_estar físico e mental.
+LPSgoal3: Empresário bem sucedido.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 258 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Intercâmbio.
+LPSgoal2: Estabilidade profissional.
+LPSgoal3: Fluência em cinco idiomas.
+LPSgoal4: Paternidade.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 259 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Reforma da casa.
+LPSgoal2: Cirurgia dos pés.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 260 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Casar.
+LPSgoal2: Casa própria.
+LPSgoal3: Topo da carreira.
+LPSgoal4: Rendas alternativas à minha carreira.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+
+=== Respondent 261 ===
+The following are the life goals expressed by a person:
+
+LPSgoal1: Auxiliar minha mãe a adquirir casa própria.
+LPSgoal2: Realizar tratamentos relaxantes semanais.
+LPSgoal3: Terminar o mestrado.
+
+Return the results as a JSON object, where each goal identifier maps to `categories` and a short `reasoning`.
+

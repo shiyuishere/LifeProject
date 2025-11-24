@@ -1,0 +1,43 @@
+# Output format
+
+Return the final results in JSON format.
+
+You must classify **every goal that appears in the user prompt**.  
+If a goal has content, it must appear in the JSON output.  
+Do not skip any goal.  
+Missing keys are not allowed.
+
+For each goal, include:
+  - "categories": the list of assigned codes.
+  - "reasoning": a short explanation of why these categories were assigned.
+
+If a goal cannot be clearly classified, assign "Oth" and provide a short reasoning.
+
+The JSON must include all goal identifiers exactly as provided (e.g., LPSgoal1, LPSgoal2, ...).
+
+Example:
+```json
+{
+  "LPSgoal1_content": {
+    "categories": ["WEC", "MAR"],
+    "reasoning": "The goal mentions relocating to another country for a new job. WEC-MAR combination is valid as it involves both career change and permanent relocation."
+  },
+  "LPSgoal2_content": {
+    "categories": ["IR"],
+    "reasoning": "This goal is about supporting a family member (doing something FOR someone), which is coded as IR only per hard rule 4."
+  },
+  "LPSgoal3_content": {
+    "categories": ["WEC"],
+    "reasoning": "The goal is about retiring/stopping work without mentioning specific leisure activities, so it is coded as WEC only (not EFT) per hard rule 3."
+  },
+  "LPSgoal4_content": {
+    "categories": ["MAR", "HQL"],
+    "reasoning": "The text mentions living in a peaceful countryside location. MAR is assigned for the residence aspect, and HQL is added because peaceful/comfortable living quality is explicitly mentioned."
+  },
+  "LPSgoal5_content": {
+    "categories": ["Hou", "WEC", "IR"],
+    "reasoning": "The text contains multiple goals: buying a house for self-living (Hou), advancing career (WEC), and getting married (IR). All three domains are present."
+  }
+}```
+
+---
